@@ -1,0 +1,152 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+/* box1 */
+
+.image{
+    height: 45.7rem;
+    width: 96rem;
+    background-image: url("water3.jpg");
+    background-size: cover;
+}
+
+.content{
+    /* margin-left: 35rem; */
+    color:whitesmoke;
+    position: relative;
+    top:1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px 10px
+    /* font-size: 2rem; */
+}
+
+
+.nav-bar a{
+    text-decoration: none;
+    color:whitesmoke;
+    padding:2rem;
+    font-size: 1rem;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.nav-bar1 input{
+    height: 2rem;
+    border-radius: 0.40rem;
+    margin-right: 1rem;
+}
+
+
+.nav-bar1 button{
+    height: 2rem;
+    margin-right:1.8rem;
+    color:black;
+    width: 4rem;
+}
+
+/* box2 */
+
+.cont-sec{
+    margin-top: 4rem;
+    margin-left: 35rem;
+}
+
+.cont-sec h1{
+    color:whitesmoke;
+    font-size: 3rem;
+}
+
+.content1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:3rem;
+    margin-top: 5rem;
+}
+
+.cont-sec1{
+    height:20rem;
+    width: 20rem;
+    background-color: white;
+}
+
+.cont-sec1 h2{
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.cont-sec1 p{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.cont-sec1 hr{
+    margin-top: 0.80rem;
+}
+
+.cont-sec2{
+    height:20rem;
+    width: 20rem;
+    background-color: white;
+}
+
+.cont-sec2 h2{
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.cont-sec2 p{
+    margin-top: 4rem;
+    margin-left: 3rem;
+}
+
+.cont-sec2 hr{
+    margin-top: 0.80rem;
+}
+
+.cont-sec3{
+    height:20rem;
+    width: 20rem;
+    background-color: white;
+}
+
+.cont-sec3 h2{
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.cont-sec3 p{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.cont-sec3 hr{
+    margin-top: 0.80rem;
+}
+
+.cont-sec4{
+    height:20rem;
+    width: 20rem;
+    background-color: white;
+}
+
+.cont-sec4 h2{
+    margin-top: 1rem;
+    margin-left: 8rem;
+}
+
+.cont-sec4 p{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.cont-sec4 hr{
+    margin-top: 0.80rem;
+}
+
+
